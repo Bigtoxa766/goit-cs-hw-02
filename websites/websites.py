@@ -1,6 +1,7 @@
 import requests
 from datetime import datetime
 
+# Список вебсайтів
 websites = [
     "https://www.google.com",
     "https://www.facebook.com",
